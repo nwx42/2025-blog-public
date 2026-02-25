@@ -41,14 +41,14 @@
 	],
 	"currentBackgroundImageId": "",
 	"socialButtons": [],
-	"clockShowSeconds": false,
+	"clockShowSeconds": true,
 	"summaryInContent": false,
 	"isCachePem": false,
 	"hideEditButton": false,
 	"enableCategories": true,
 	"currentHatIndex": 3,
 	"hatFlipped": false,
-	"enableChristmas": false,
+	"enableChristmas": true,
 	"beian": {
 		"text": "",
 		"link": ""
